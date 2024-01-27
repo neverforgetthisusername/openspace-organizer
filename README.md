@@ -20,3 +20,6 @@ This programme is designed to simply organise the arrangement of people around t
 * assigning people to tables
 * Display the table plan
 * save data as an Excel file
+
+#### TO USE YOUR OWN DATA, 
+     copy the file "participants.xlsx" to wherever you want and fill in it.
